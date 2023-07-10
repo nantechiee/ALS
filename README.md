@@ -6,7 +6,7 @@ Anand Legal Sollutions is a website for an leagal forum. This GitHub repository 
 https://github.com/SruthiKrish19/client-anand-legal-solutions.git
 ```
 
-2. Open the index.htm file in a web browser.
+2. Open the index.html file in a web browser.
 
 ## Screenshots
 <img width="1280" alt="Screenshot 2023-07-07 at 8 45 42 PM" src="https://github.com/SruthiKrish19/client-anand-legal-solutions/assets/76727733/491bc2ec-984b-4fd0-9f2c-3df64ee557b6">
@@ -16,4 +16,4 @@ https://github.com/SruthiKrish19/client-anand-legal-solutions.git
 
 
 ## Reference Docs
-- Email.js (https://www.emailjs.com/)
+- [EmailJs](https://www.emailjs.com/)
