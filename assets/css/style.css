@@ -4877,22 +4877,22 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
   padding: 15px;
 }
 
-/* .practice-single:hover .header {
-  background: var(--primary-color1);
+.practice-single:hover .header {
+  background: var(--primary-light);
 }
 
 .practice-single:hover .body {
   padding: 30px;
-  background: var(--dark-bg);
+  background: var(--dark-light);
 }
 
 .practice-single:hover .body p {
-  color: var(--white);
-} */
+  color: var(--text-color2);
+}
 
 .practice-single .header {
   padding: 30px;
-  background: var(--primary-light);
+  background: var(--primary-color1);
   border-radius: 10px 10px 0px 0px;
   transition: all 0.5s ease-out 0s;
 }
@@ -4919,7 +4919,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 
 .practice-single .body {
   padding: 30px;
-  background: var(--dark-light);
+  background: var(--dark-bg);
   border-radius: 0px 0px 10px 10px;
   transition: all 0.5s ease-out 0s;
 }
@@ -4927,7 +4927,7 @@ header.style-5 .main-nav ul li.menu-item-has-children>i {
 .practice-single .body p {
   font-size: 16px;
   font-weight: 400;
-  color: var(--text-color2);
+  color: var(--white);
   line-height: 1.8;
   transition: all 0.5s ease-out 0s;
 }
